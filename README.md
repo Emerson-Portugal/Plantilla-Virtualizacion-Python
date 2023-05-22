@@ -1,5 +1,5 @@
 # Virtualizacion en Python
-Con estos comandos podras crear un entorno vitual de python en los sistemas operativos de linux y windows
+Con estos Repositorio podrás crear un entorno virtual de Python en los sistemas operativos de Linux y Windows
 
 ## Requisitos
 Requisitos previos, para la creacion de un entorno virtual en python
